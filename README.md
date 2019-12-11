@@ -15,4 +15,8 @@ Selecionar os arquivos que deseja
 
 ![image](https://user-images.githubusercontent.com/30643035/70660966-ac70ab00-1c39-11ea-8f89-7805887c3ffe.png)
 
+Após isso, todas as Views serão geradas
+
+![image](https://user-images.githubusercontent.com/30643035/70661109-f8235480-1c39-11ea-8a58-edeac84e4169.png)
+
 

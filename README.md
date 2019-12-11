@@ -9,6 +9,10 @@ Para adicionar as Páginas do Identity
 
 Após isso selecionar a opção do Identity
 
-![image](https://user-images.githubusercontent.com/30643035/70660903-8945fb80-1c39-11ea-8bc5-1b377678f91a.png)
+![image](https://user-images.githubusercontent.com/30643035/70661020-c7dbb600-1c39-11ea-9313-ea9581944a33.png)
+
+Selecionar os arquivos que deseja
+
+![image](https://user-images.githubusercontent.com/30643035/70660966-ac70ab00-1c39-11ea-8f89-7805887c3ffe.png)
 
 
